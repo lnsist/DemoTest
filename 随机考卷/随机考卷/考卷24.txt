@@ -1,0 +1,58 @@
+姓名:
+
+日期:
+
+学号:
+
+                    各州首府问卷 (Form 24)
+
+01. 这个Vermont州的首府是:           	A. Columbus       	B. Montpelier     	C. Santa Fe       	D. Raleigh        
+02. 这个Georgia州的首府是:           	A. Juneau         	B. Atlanta        	C. Denver         	D. Columbia       
+03. 这个WestVirginia州的首府是:      	A. Charleston     	B. Providence     	C. Jackson        	D. Richmond       
+04. 这个Alaska州的首府是:            	A. Lansing        	B. Jackson        	C. Juneau         	D. Harrisburg     
+05. 这个Washington州的首府是:        	A. Augusta        	B. Olympia        	C. Salt Lake City 	D. Bismarck       
+06. 这个Mississippi州的首府是:       	A. Jackson        	B. Bismarck       	C. Frankfort      	D. Olympia        
+07. 这个North Dakota州的首府是:      	A. Bismarck       	B. Indianapolis   	C. Helena         	D. Sacramento     
+08. 这个Wisconsin州的首府是:         	A. Nashville      	B. Madison        	C. Carson City    	D. Honolulu       
+09. 这个Rhode Island州的首府是:      	A. Atlanta        	B. Providence     	C. Topeka         	D. Des Moines     
+10. 这个Illinois州的首府是:          	A. Springfield    	B. Hartford       	C. Cheyenne       	D. Raleigh        
+11. 这个Delaware州的首府是:          	A. Bismarck       	B. Frankfort      	C. Dover          	D. Saint Paul     
+12. 这个Maryland州的首府是:          	A. Phoenix        	B. Olympia        	C. Annapolis      	D. Tallahassee    
+13. 这个Kansas州的首府是:            	A. Sacramento     	B. Lincoln        	C. Austin         	D. Topeka         
+14. 这个Texas州的首府是:             	A. Phoenix        	B. Austin         	C. Columbus       	D. Providence     
+15. 这个South Carolina州的首府是:    	A. Augusta        	B. Sacramento     	C. Columbia       	D. Little Rock    
+16. 这个Utah州的首府是:              	A. Juneau         	B. Cheyenne       	C. Dover          	D. Salt Lake City 
+17. 这个Wyoming州的首府是:           	A. Cheyenne       	B. Frankfort      	C. Charleston     	D. Montgomery     
+18. 这个New York州的首府是:          	A. Frankfort      	B. Albany         	C. Cheyenne       	D. Baton Rouge    
+19. 这个Tennessee州的首府是:         	A. Indianapolis   	B. Albany         	C. Nashville      	D. Lansing        
+20. 这个Ohio州的首府是:              	A. Sacramento     	B. Helena         	C. Columbus       	D. Phoenix        
+21. 这个Montana州的首府是:           	A. Little Rock    	B. Helena         	C. Montgomery     	D. Hartford       
+22. 这个Pennsylvania州的首府是:      	A. Trenton        	B. Salt Lake City 	C. Harrisburg     	D. Des Moines     
+23. 这个Louisiana州的首府是:         	A. Honolulu       	B. Denver         	C. Augusta        	D. Baton Rouge    
+24. 这个Nebraska州的首府是:          	A. Lincoln        	B. Jackson        	C. Oklahoma City  	D. Montgomery     
+25. 这个Maine州的首府是:             	A. Augusta        	B. Harrisburg     	C. Des Moines     	D. Charleston     
+26. 这个New Jersey州的首府是:        	A. Salt Lake City 	B. Bismarck       	C. Helena         	D. Trenton        
+27. 这个Oregon州的首府是:            	A. Des Moines     	B. Jackson        	C. Salem          	D. Pierre         
+28. 这个Hawaii州的首府是:            	A. Madison        	B. Montgomery     	C. Oklahoma City  	D. Honolulu       
+29. 这个Kentucky州的首府是:          	A. Frankfort      	B. Jackson        	C. Olympia        	D. Springfield    
+30. 这个Florida州的首府是:           	A. Frankfort      	B. Helena         	C. Tallahassee    	D. Juneau         
+31. 这个California州的首府是:        	A. Salem          	B. Jefferson City 	C. Sacramento     	D. Springfield    
+32. 这个Connecticut州的首府是:       	A. Santa Fe       	B. Annapolis      	C. Atlanta        	D. Hartford       
+33. 这个Massachusetts州的首府是:     	A. Phoenix        	B. Boston         	C. Atlanta        	D. Olympia        
+34. 这个Missouri州的首府是:          	A. Cheyenne       	B. Austin         	C. Jefferson City 	D. Boston         
+35. 这个Alabama州的首府是:           	A. Montgomery     	B. Concord        	C. Bismarck       	D. Salt Lake City 
+36. 这个Iowa州的首府是:              	A. Des Moines     	B. Raleigh        	C. Oklahoma City  	D. Little Rock    
+37. 这个New Hampshire州的首府是:     	A. Atlanta        	B. Boston         	C. Concord        	D. Lincoln        
+38. 这个Arizona州的首府是:           	A. Montpelier     	B. Jackson        	C. Saint Paul     	D. Phoenix        
+39. 这个Minnesota州的首府是:         	A. Helena         	B. Raleigh        	C. Lincoln        	D. Saint Paul     
+40. 这个Arkansas州的首府是:          	A. Atlanta        	B. Little Rock    	C. Des Moines     	D. Madison        
+41. 这个Oklahoma州的首府是:          	A. Madison        	B. Oklahoma City  	C. Bismarck       	D. Little Rock    
+42. 这个Indiana州的首府是:           	A. Carson City    	B. Sacramento     	C. Indianapolis   	D. Bismarck       
+43. 这个Nevada州的首府是:            	A. Cheyenne       	B. Salem          	C. Carson City    	D. Lansing        
+44. 这个Virginia州的首府是:          	A. Jackson        	B. Austin         	C. Honolulu       	D. Richmond       
+45. 这个Colorado州的首府是:          	A. Sacramento     	B. Atlanta        	C. Denver         	D. Lansing        
+46. 这个Mexico州的首府是:            	A. Juneau         	B. Jefferson City 	C. Santa Fe       	D. Montpelier     
+47. 这个Michigan州的首府是:          	A. Oklahoma City  	B. Austin         	C. Salt Lake City 	D. Lansing        
+48. 这个Idaho州的首府是:             	A. Montpelier     	B. Boise          	C. Salt Lake City 	D. Jackson        
+49. 这个North Carolina州的首府是:    	A. Hartford       	B. Annapolis      	C. Raleigh        	D. Salem          
+50. 这个South Dakota州的首府是:      	A. Salem          	B. Boston         	C. Des Moines     	D. Pierre         
